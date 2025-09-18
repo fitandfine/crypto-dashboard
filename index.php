@@ -12,8 +12,7 @@
 // --------------------
 // 1. Define Coins to Track
 // --------------------
-$coins = ['bitcoin', 'ethereum', 'dogecoin']; // you can add more
-
+$coins = ['bitcoin', 'ethereum', 'dogecoin']; // you can add more coins as needed
 // --------------------
 // 2. Fetch Crypto Prices from API
 // --------------------
